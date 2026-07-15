@@ -223,6 +223,11 @@ OpenCV
 </td>
 
 <td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=java" width="42"/><br>
+Java
+</td>
+
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=ts" width="42"/><br>
 TypeScript
 </td>
@@ -240,11 +245,6 @@ Next.js
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br>
 Node.js
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=java" width="42"/><br>
-Java
 </td>
 
 <td align="center" width="90">
@@ -292,8 +292,8 @@ Git
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="42"/><br>
-GitHub
+<img src="https://skillicons.dev/icons?i=huggingface" width="42"/><br>
+Hugging Face
 </td>
 
 <td align="center" width="90">
@@ -302,18 +302,18 @@ Grafana
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vercel" width="42"/><br>
-Vercel
+<img src="https://skillicons.dev/icons?i=figma" width="42"/><br>
+Figma
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=numpy" width="42"/><br>
-NumPy
+<img src="https://skillicons.dev/icons?i=androidstudio" width="42"/><br>
+Android
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=sklearn" width="42"/><br>
-Scikit
+<img src="https://skillicons.dev/icons?i=swift" width="42"/><br>
+Swift
 </td>
 
 </tr>
