@@ -234,8 +234,25 @@ TypeScript • npm • Open Source
 
 ---
 
-<p align="center">
+<table align="center">
+<tr>
 
-🔥
+<td width="110">
 
-</p>
+<img src="./assets/charmander.png" width="90">
+
+</td>
+
+<td>
+
+<i>"Charmander char char."</i>
+
+<br><br>
+
+<b>— Charmander </b>
+
+</td>
+
+</tr>
+</table>
+
