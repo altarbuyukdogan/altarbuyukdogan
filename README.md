@@ -212,14 +212,15 @@ TypeScript • npm • Open Source
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
+  <img width="100%" src="./profile-summary-card-output/calm/0-profile-details.svg">
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=altarbuyukdogan&show_icons=true&theme=github_dark&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altarbuyukdogan&layout=compact&theme=github_dark&hide_border=true">
-
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/calm/1-repos-per-language.svg">
+  <img width="49%" src="./profile-summary-card-output/calm/4-productive-time.svg">
 </p>
 
 ---
@@ -234,8 +235,6 @@ TypeScript • npm • Open Source
 ---
 
 <p align="center">
-
-> **Building intelligent products that people enjoy using.**
 
 🔥
 
