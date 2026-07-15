@@ -243,11 +243,6 @@ Next.js
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br>
-Node.js
-</td>
-
-<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=cs" width="42"/><br>
 C#
 </td>
@@ -279,11 +274,6 @@ MySQL
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=docker" width="42"/><br>
 Docker
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="42"/><br>
-Linux
 </td>
 
 <td align="center" width="90">
