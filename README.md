@@ -21,13 +21,6 @@ AI / Machine Learning Engineer • Building useful AI-powered products
     <img src="https://img.shields.io/badge/Museary-museary.art-7C3AED?style=for-the-badge">
   </a>
 
-  <a href="https://feastofgods.com">
-    <img src="https://img.shields.io/badge/Feast%20of%20Gods-feastofgods.com-B91C1C?style=for-the-badge">
-  </a>
-
-  <a href="https://playbunpop.com">
-    <img src="https://img.shields.io/badge/BunPop-playbunpop.com-F97316?style=for-the-badge">
-  </a>
 </p>
 
 ---
@@ -177,6 +170,8 @@ Casual mobile game.
 Built for fun and polished gameplay.
 
 🌐 https://playbunpop.com
+
+🔒 Private Repository
 
 </td>
 
