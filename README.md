@@ -233,21 +233,12 @@ TypeScript • npm • Open Source
 - Exploring multimodal AI
 
 ---
+<p align="center">
+  <img src="./assets/charmander.png" width="90">
+</p>
 
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="18%" align="center" valign="middle">
-      <img src="./assets/charmander.png" width="90" alt="Charmander">
-    </td>
-
-    <td width="82%" valign="middle">
-      <blockquote>
-        <p><em>"Charmander char char."</em></p>
-        <p><strong>— Charmander</strong></p>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <em>"Charmander char char."</em><br>
+  <strong>— Charmander</strong>
+</p>
 
