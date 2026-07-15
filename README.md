@@ -197,13 +197,73 @@ TypeScript • npm • Open Source
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=python" width="42"/><br>
+Python
+</td>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ts,react,nextjs,nodejs,unity,docker,git,github"/>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=java" width="42"/><br>
+Java
+</td>
 
-</p>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=pytorch" width="42"/><br>
+PyTorch
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="42"/><br>
+TensorFlow
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=opencv" width="42"/><br>
+OpenCV
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker" width="42"/><br>
+Docker
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=ts" width="42"/><br>
+TypeScript
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=react" width="42"/><br>
+React
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nextjs" width="42"/><br>
+Next.js
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="42"/><br>
+Node.js
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=unity" width="42"/><br>
+Unity
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="42"/><br>
+Git
+</td>
+</tr>
+</table>
 
 ---
 
