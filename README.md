@@ -292,7 +292,7 @@ Git
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=huggingface" width="42"/><br>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42"/><br>
 Hugging Face
 </td>
 
