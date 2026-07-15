@@ -233,12 +233,5 @@ TypeScript • npm • Open Source
 - Exploring multimodal AI
 
 ---
-<p align="center">
-  <img src="./assets/charmander.png" width="90">
-</p>
 
-<p align="center">
-  <em>"Charmander char char."</em><br>
-  <strong>— Charmander</strong>
-</p>
-
+<img src="./assets/charmander.png" width="100%">
