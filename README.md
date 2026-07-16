@@ -177,22 +177,6 @@ Built for fun and polished gameplay.
 
 </tr>
 
-<tr>
-
-<td colspan="2">
-
-## 📖 insanca-tr
-
-Open-source toolkit for simplifying formal Turkish.
-
-TypeScript • npm • Open Source
-
-➡️ https://github.com/altarbuyukdogan/insanca-tr
-
-</td>
-
-</tr>
-
 </table>
 
 ---
