@@ -181,113 +181,73 @@ Built for fun and polished gameplay.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Stack
 
 <table align="center">
 <tr>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=python" width="42"/><br>
 Python
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=pytorch" width="42"/><br>
 PyTorch
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="42"/><br>
 TensorFlow
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42"/><br>
+Hugging Face
+</td>
+
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=opencv" width="42"/><br>
 OpenCV
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=java" width="42"/><br>
 Java
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=ts" width="42"/><br>
-TypeScript
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=react" width="42"/><br>
-React
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nextjs" width="42"/><br>
-Next.js
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=cs" width="42"/><br>
-C#
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=unity" width="42"/><br>
-Unity
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="90">
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="42"/><br>
+TypeScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="42"/><br>
+React
+</td>
+
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=firebase" width="42"/><br>
 Firebase
 </td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=supabase" width="42"/><br>
-Supabase
-</td>
-
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=mysql" width="42"/><br>
 MySQL
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=docker" width="42"/><br>
 Docker
 </td>
 
-<td align="center" width="90">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="42"/><br>
 Git
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42"/><br>
-Hugging Face
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=grafana" width="42"/><br>
-Grafana
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=figma" width="42"/><br>
-Figma
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="42"/><br>
-Android
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=swift" width="42"/><br>
-Swift
 </td>
 
 </tr>
