@@ -13,8 +13,8 @@ AI / Machine Learning Engineer • Building useful AI-powered products
     <img src="https://img.shields.io/badge/LinkedIn-altarb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://ialtar.dev">
-    <img src="https://img.shields.io/badge/Portfolio-ialtar.dev-EA8C2A?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <a href="https://altarbuyukdogan.com">
+    <img src="https://img.shields.io/badge/Portfolio-altarbuyukdogan.com-EA8C2A?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 
   <a href="https://museary.art">
